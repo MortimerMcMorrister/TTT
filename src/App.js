@@ -8,7 +8,7 @@ export default function Board() {
       </div>
       <div className="board-row">
         <button className="square">4</button>
-        <button className="square">Z</button>
+        <button className="square">ü</button>
         <button className="square">6</button>
       </div>
       <div className="board-row">
